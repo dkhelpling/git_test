@@ -1,0 +1,55 @@
+.navbar {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+a:visited {
+    color: #999999;
+    }
+
+table {
+    margin: auto;
+    color: #f39c12;
+    border-spacing: 30px
+}
+
+.navbar td {
+    text-align: center;
+}
+
+.Title {
+    width: 100%;
+    text-align: center;
+}
+
+.game_articles > * {
+    margin: 100px 0;
+}
+
+html {
+    background-color: #333333;
+    color:#f39c12;
+    font-size: 20px;
+    
+}
+
+img {
+    margin-left: 30px;
+    text-align: left;
+}
+
+iframe {
+
+    
+    
+    margin-left: 30px;
+}
+
+.game_articles p {
+    margin-bottom:50px;
+
+   
+
+}
